@@ -1,0 +1,5 @@
+EXPORTS
+    CreateDsMapAsync @1
+    CreateDsMapStandard @2
+    RegisterCallbacks @3
+    addThreeNumbers @4
